@@ -74,6 +74,7 @@ function App(): React.JSX.Element {
         <Header />
         <Text>changes dones</Text>
         <Text>master changes</Text>
+        <Text>in the Features/newBranch</Text>
       </ScrollView>
     </SafeAreaView>
   );
