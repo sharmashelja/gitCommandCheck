@@ -73,6 +73,7 @@ function App(): React.JSX.Element {
         style={backgroundStyle}>
         <Header />
         <Text>changes dones</Text>
+        <Text>master changes</Text>
       </ScrollView>
     </SafeAreaView>
   );
