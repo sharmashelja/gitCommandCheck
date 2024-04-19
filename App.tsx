@@ -75,7 +75,7 @@ function App(): React.JSX.Element {
         <Text>changes dones</Text>
         <Text>master changes</Text>
         <Text>in the Features/newBranch</Text>
-      </ScrollView>
+      </ScrollView>  
     </SafeAreaView>
   );
 }
