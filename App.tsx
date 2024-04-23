@@ -75,6 +75,9 @@ function App(): React.JSX.Element {
         <Text>changes dones</Text>
         <Text>master changes</Text>
         <Text>in the Features/newBranch</Text>
+        <View>
+          <Text>Already added the renameSecondBranch value</Text>
+        </View>
         <Text>new line added..</Text>
       </ScrollView>  
 
